@@ -1,0 +1,1 @@
+Djnago ile blog denemesi
